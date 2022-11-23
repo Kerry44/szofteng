@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\rzv4fb\\.nuget\\packages\\",
-        "outputPath": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rzv4fb\\AppData\\Roaming\\NuGet\\NuGet.Config",

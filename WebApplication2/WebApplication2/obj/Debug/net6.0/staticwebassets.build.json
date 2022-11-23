@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B0b/FuowkdXJ3YrIyaxW2FGG3oF3mrcNQntapzJjZKU=",
+  "Hash": "F2/rqvwhFgBFomx0u1fDAaNJHI9TFBiAH7vs7uf0yNU=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication2\\wwwroot",
       "Source": "WebApplication2",
-      "ContentRoot": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\index.html",
+      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\index.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.css",
+      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "jsgyak.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\jsgyak.css"
     },
     {
-      "Identity": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.html",
+      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "jsgyak.html",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\jsgyak.html"
     },
     {
-      "Identity": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.js",
+      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\9.gyak\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "jsgyak.js",
       "AssetKind": "All",
