@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KTkupAWgbrr15QNXbSIVbBrNNbTJSgVBj47ZJIT3nIQ=",
+  "Hash": "C7NHD/ldZETddt6bHHBJHfk8R2vh1s4Cc+7GwnJzNYo=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -32,23 +32,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\hajo.html"
-    },
-    {
-      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\hetedik.js",
-      "SourceId": "WebApplication2",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
-      "BasePath": "_content/WebApplication2",
-      "RelativePath": "hetedik.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\hetedik.js"
     },
     {
       "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\index.html",
@@ -117,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\jsgyak.js"
+    },
+    {
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\kerdesek.html",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "kerdesek.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\kerdesek.html"
+    },
+    {
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\main.js",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
     }
   ]
 }
