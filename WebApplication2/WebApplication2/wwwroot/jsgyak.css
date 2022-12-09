@@ -1,11 +1,20 @@
 ﻿#pascal {
-    //Az elemek legyenek benne oszlopan
+    background-color: aqua;
+    display: flex;
+    flex-direction: column
 }
 
 .sor {
-    //Az elemek legyenek benne sorban
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .elem {
-    //legyen 30x30 px
+    background-color: fuchsia;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin: 1px;
 }

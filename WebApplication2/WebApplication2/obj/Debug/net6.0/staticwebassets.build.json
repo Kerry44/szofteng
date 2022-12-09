@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F2/rqvwhFgBFomx0u1fDAaNJHI9TFBiAH7vs7uf0yNU=",
+  "Hash": "KTkupAWgbrr15QNXbSIVbBrNNbTJSgVBj47ZJIT3nIQ=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -10,17 +10,51 @@
     {
       "Name": "WebApplication2\\wwwroot",
       "Source": "WebApplication2",
-      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\index.html",
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\hajo.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "hajo.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hajo.html"
+    },
+    {
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\hetedik.js",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "hetedik.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hetedik.js"
+    },
+    {
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\index.html",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -34,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.css",
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "jsgyak.css",
       "AssetKind": "All",
@@ -51,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\jsgyak.css"
     },
     {
-      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.html",
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.html",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "jsgyak.html",
       "AssetKind": "All",
@@ -68,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\jsgyak.html"
     },
     {
-      "Identity": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.js",
+      "Identity": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\jsgyak.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "S:\\Softeng\\git\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "D:\\szofteng\\WebApplication2\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "jsgyak.js",
       "AssetKind": "All",
